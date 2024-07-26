@@ -1,0 +1,44 @@
+h1 {
+    color: white;
+    background-color: #337DFF;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+img{
+    width: 80%;
+    height: 500px;
+    
+
+
+}
+a {
+    color: black; /* this may can be removed */
+    font-size: 50px;
+    color: #337DFF;
+    text-decoration: none;
+    font-style: italic;
+
+}
+a:hover {
+    text-decoration: underline;
+}
+ul{
+    font-size:30px;
+    margin-left: 200px;
+    color: #337DFF;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+p{
+    
+    margin-left: 120px;
+    margin-right: 120px;
+}
+.team {
+    color: #05CE5B;
+    font-size: 30px;
+}
