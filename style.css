@@ -8,17 +8,12 @@ h1 {
 img{
     width: 80%;
     height: 500px;
-    
-
-
 }
 a {
-    color: black; /* this may can be removed */
     font-size: 50px;
     color: #337DFF;
     text-decoration: none;
     font-style: italic;
-
 }
 a:hover {
     text-decoration: underline;
@@ -34,7 +29,6 @@ ul{
     margin-right: auto;
 }
 p{
-    
     margin-left: 120px;
     margin-right: 120px;
 }
